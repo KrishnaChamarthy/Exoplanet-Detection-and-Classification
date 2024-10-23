@@ -21,3 +21,7 @@ This project focuses on detecting and classifying exoplanets using machine learn
 
 ## Results
 The project successfully classifies exoplanets with a high degree of accuracy, providing insights into which features are most indicative of potential exoplanets. The workflow can be applied to other datasets for future exoplanet detection research.
+
+## Analysis
+![Exoplanet Present](Images/Exo-Yes.png)
+![Exoplanet Absent](Images/Exo-No.png)
